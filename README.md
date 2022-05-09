@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/4"/>
     <img src="https://badgen.net/github/issues/7kyun/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2022-05-09 08:17:32"/>
+    <img src="https://badgen.net/badge/last-commit/2022-05-09 09:05:34"/>
     <img src="https://badgen.net/github/forks/7kyun/ghiblog"/>
     <img src="https://badgen.net/github/stars/7kyun/ghiblog"/>
     <img src="https://badgen.net/github/watchers/7kyun/ghiblog"/>
@@ -31,7 +31,6 @@
 
     
 ## 置顶 :thumbsup: 
-- [⚠️Alert❗️❗️](https://github.com/7kyun/ghiblog/issues/2)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
 
 #### [Vue 数据绑定原理（一）](https://github.com/7kyun/ghiblog/issues/3) <sup>0 :speech_balloon:</sup> 	 2022-05-09 08:10:59
@@ -42,19 +41,6 @@
 这段代码主要是初始化data中的数据，将数据进行Observer，监听数据的变化，其他的监视原理一致，这里以data为例。[源码](https://github.com/vuejs/vue/blob/2.6/src/core/instance/state.js#L112)
 
 [更多>>>](https://github.com/7kyun/ghiblog/issues/3)
-
----
-
-
-#### [⚠️Alert❗️❗️](https://github.com/7kyun/ghiblog/issues/2) <sup>0 :speech_balloon:</sup> 	 2022-05-09 07:04:50
-
-:label: : [:+1:置顶](https://github.com/7kyun/ghiblog/labels/%3A%2B1%3A%E7%BD%AE%E9%A1%B6)
-
-个人博客, 请**不要**提issue, 谢谢! 
-====================
-This repository is for personal blogging, please **DO NOT** submit issue, thanks!
-
-[更多>>>](https://github.com/7kyun/ghiblog/issues/2)
 
 ---
 
@@ -81,9 +67,8 @@ This repository is for personal blogging, please **DO NOT** submit issue, thanks
 
 
 <details>
-<summary>:+1:置顶	<sup>1:newspaper:</sup></summary>
+<summary>:+1:置顶	<sup>0:newspaper:</sup></summary>
 
-- [⚠️Alert❗️❗️](https://github.com/7kyun/ghiblog/issues/2)  <sup>0 :speech_balloon:</sup>  	 
 
 
 </details>
