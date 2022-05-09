@@ -1,9 +1,9 @@
 
 
 <p align='center'>
-    <img src="https://badgen.net/badge/labels/2"/>
+    <img src="https://badgen.net/badge/labels/4"/>
     <img src="https://badgen.net/github/issues/7kyun/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2022-05-09 08:11:28"/>
+    <img src="https://badgen.net/badge/last-commit/2022-05-09 08:16:36"/>
     <img src="https://badgen.net/github/forks/7kyun/ghiblog"/>
     <img src="https://badgen.net/github/stars/7kyun/ghiblog"/>
     <img src="https://badgen.net/github/watchers/7kyun/ghiblog"/>
@@ -36,7 +36,7 @@
 
 #### [Vue 数据绑定原理（一）](https://github.com/7kyun/ghiblog/issues/3) <sup>0 :speech_balloon:</sup> 	 2022-05-09 08:10:59
 
-:label: : 
+:label: : [vue](https://github.com/7kyun/ghiblog/labels/vue)
 
 ### initData
 这段代码主要是初始化data中的数据，将数据进行Observer，监听数据的变化，其他的监视原理一致，这里以data为例。[源码](https://github.com/vuejs/vue/blob/2.6/src/core/instance/state.js#L112)
@@ -92,6 +92,21 @@ This repository is for personal blogging, please **DO NOT** submit issue, thanks
 <summary>:framed_picture:封面	<sup>1:newspaper:</sup></summary>
 
 - [Cover](https://github.com/7kyun/ghiblog/issues/1)  <sup>1 :speech_balloon:</sup>  	 
+
+
+</details>
+
+<details>
+<summary>vue	<sup>1:newspaper:</sup></summary>
+
+- [Vue 数据绑定原理（一）](https://github.com/7kyun/ghiblog/issues/3)  <sup>0 :speech_balloon:</sup>  	 
+
+
+</details>
+
+<details>
+<summary>源码	<sup>0:newspaper:</sup></summary>
+
 
 
 </details>
