@@ -282,15 +282,15 @@ def execute():
     print(cover_image_section)
 
     # 8. projects section
-    projects_section = bundle_projects_section()
-    print(projects_section)
+    # projects_section = bundle_projects_section()
+    # print(projects_section)
 
     # 9. about me section
     # about_me_section = bundle_about_me_section()
     # print(about_me_section)
 
     contents = [summary_section, cover_image_section, pinned_issues_section, new_created_section,
-                list_by_labels_section, projects_section]
+                list_by_labels_section]
     update_readme_md_file(contents)
 
     print('README.md updated successfully!!!')
