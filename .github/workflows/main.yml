@@ -1,4 +1,4 @@
-name: CI
+name: GenerateIssuesCI
 
 on: [issues, issue_comment]
 
