@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/4"/>
     <img src="https://badgen.net/github/issues/7kyun/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2022-05-09 09:29:59"/>
+    <img src="https://badgen.net/badge/last-commit/2022-05-09 09:42:31"/>
     <img src="https://badgen.net/github/forks/7kyun/ghiblog"/>
     <img src="https://badgen.net/github/stars/7kyun/ghiblog"/>
     <img src="https://badgen.net/github/watchers/7kyun/ghiblog"/>
