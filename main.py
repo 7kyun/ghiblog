@@ -199,15 +199,9 @@ def bundle_cover_image_section() -> str:
     if cover_issues is None or cover_issues.totalCount == 0:
         return ''
     comments = cover_issues[0].get_comments()
-    print('comments ====')
-    print(comments.totalCount)
-    print('comments ====')
     if comments is None or comments.totalCount == 0:
         return ''
     c = comments[comments.totalCount - 1]
-    print('c ====')
-    print(c)
-    print('c ====')
     img_md = None
     img_desc = ''
     if '---' in c.body:
@@ -285,9 +279,7 @@ def execute():
 
     # 7. cover image section
     cover_image_section = bundle_cover_image_section()
-    print('cover start ========')
     print(cover_image_section)
-    print('cover end ========')
 
     # 8. projects section
     # projects_section = bundle_projects_section()
