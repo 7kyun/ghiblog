@@ -193,15 +193,27 @@ def bundle_list_by_labels_section():
 def bundle_cover_image_section() -> str:
     global ghiblog
     cover_label = ghiblog.get_label(':framed_picture:封面')
+    print('cover_label ====')
+    print(cover_label)
+    print('cover_label ====')
     if cover_label is None:
         return ''
     cover_issues = ghiblog.get_issues(labels=(cover_label,))
+    print('cover_issues ====')
+    print(cover_issues)
+    print('cover_issues ====')
     if cover_issues is None or cover_issues.totalCount == 0:
         return ''
     comments = cover_issues[0].get_comments()
+    print('comments ====')
+    print(comments)
+    print('comments ====')
     if comments is None or comments.totalCount == 0:
         return ''
     c = comments[comments.totalCount - 1]
+    print('c ====')
+    print(c)
+    print('c ====')
     img_md = None
     img_desc = ''
     if '---' in c.body:
