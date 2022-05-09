@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/2"/>
     <img src="https://badgen.net/github/issues/7kyun/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2022-05-09 07:19:50"/>
+    <img src="https://badgen.net/badge/last-commit/2022-05-09 07:27:33"/>
     <img src="https://badgen.net/github/forks/7kyun/ghiblog"/>
     <img src="https://badgen.net/github/stars/7kyun/ghiblog"/>
     <img src="https://badgen.net/github/watchers/7kyun/ghiblog"/>
@@ -17,6 +17,19 @@
 </p>
 
 
+
+<p align='center'>
+<a href='https://github.com/7kyun/ghiblog/issues/1#issuecomment-1120738390'>
+<img src='https://user-images.githubusercontent.com/56475308/167338714-306950ac-bc9e-4968-a5d6-22fc157362db.jpg' width='50%' alt='
+看看月亮吧 '>
+</a>
+</p>
+<p align='center'>
+<span>
+看看月亮吧 </span>
+</p>
+
+    
 ## 置顶 :thumbsup: 
 - [⚠️Alert❗️❗️](https://github.com/7kyun/ghiblog/issues/2)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
@@ -25,7 +38,7 @@
 
 :label: : [:+1:置顶](https://github.com/7kyun/ghiblog/labels/%3A%2B1%3A%E7%BD%AE%E9%A1%B6)
 
-个人博客, 请**不要**提issue, 谢谢!
+个人博客, 请**不要**提issue, 谢谢! 
 ====================
 This repository is for personal blogging, please **DO NOT** submit issue, thanks!
 
@@ -34,11 +47,11 @@ This repository is for personal blogging, please **DO NOT** submit issue, thanks
 ---
 
 
-#### [Cover](https://github.com/7kyun/ghiblog/issues/1) <sup>0 :speech_balloon:</sup> 	 2022-05-09 04:04:36
+#### [Cover](https://github.com/7kyun/ghiblog/issues/1) <sup>1 :speech_balloon:</sup> 	 2022-05-09 04:04:36
 
 :label: : [:framed_picture:封面](https://github.com/7kyun/ghiblog/labels/%3Aframed_picture%3A%E5%B0%81%E9%9D%A2)
 
-![11652066421_ pic](https://user-images.githubusercontent.com/56475308/167338714-306950ac-bc9e-4968-a5d6-22fc157362db.jpg)
+![月亮](https://user-images.githubusercontent.com/56475308/167338714-306950ac-bc9e-4968-a5d6-22fc157362db.jpg)
 
 
 [更多>>>](https://github.com/7kyun/ghiblog/issues/1)
@@ -66,7 +79,7 @@ This repository is for personal blogging, please **DO NOT** submit issue, thanks
 <details>
 <summary>:framed_picture:封面	<sup>1:newspaper:</sup></summary>
 
-- [Cover](https://github.com/7kyun/ghiblog/issues/1)  <sup>0 :speech_balloon:</sup>  	 
+- [Cover](https://github.com/7kyun/ghiblog/issues/1)  <sup>1 :speech_balloon:</sup>  	 
 
 
 </details>
