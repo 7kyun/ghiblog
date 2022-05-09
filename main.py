@@ -59,7 +59,7 @@ def bundle_summary_section():
     total_label_count = ghiblog.get_labels().totalCount
     total_issue_count = ghiblog.get_issues().totalCount
 
-    pic_of_the_day = NasaClient().get_picture_of_the_day()
+    # pic_of_the_day = NasaClient().get_picture_of_the_day()
 
     summary_section = '''
 
@@ -75,7 +75,7 @@ def bundle_summary_section():
 
 <p align='center'>
     <a href="https://github.com/jwenjian/visitor-count-badge">
-        <img src="https://visitor-badge.glitch.me/badge?page_id=jwenjian.ghiblog"/>
+        <img src="https://visitor-badge.glitch.me/badge?page_id=7kyun.ghiblog"/>
     </a>
 </p>
 
