@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/2"/>
     <img src="https://badgen.net/github/issues/7kyun/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2022-05-09 07:16:44"/>
+    <img src="https://badgen.net/badge/last-commit/2022-05-09 07:19:50"/>
     <img src="https://badgen.net/github/forks/7kyun/ghiblog"/>
     <img src="https://badgen.net/github/stars/7kyun/ghiblog"/>
     <img src="https://badgen.net/github/watchers/7kyun/ghiblog"/>
@@ -27,7 +27,7 @@
 
 个人博客, 请**不要**提issue, 谢谢!
 ====================
-This repository is for personal blogging, please **DO NOT** submit issue, thanks! 
+This repository is for personal blogging, please **DO NOT** submit issue, thanks!
 
 [更多>>>](https://github.com/7kyun/ghiblog/issues/2)
 
