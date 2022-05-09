@@ -279,7 +279,9 @@ def execute():
 
     # 7. cover image section
     cover_image_section = bundle_cover_image_section()
+    print('cover start ========')
     print(cover_image_section)
+    print('cover end ========')
 
     # 8. projects section
     # projects_section = bundle_projects_section()
