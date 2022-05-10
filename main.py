@@ -253,6 +253,9 @@ def bundle_projects_section() -> str:
 def execute():
     global cur_time
     # common
+    os.environ['TZ'] = 'Asia/Shanghai'
+    time.tzset()
+    print(time.tzname)
     cur_time = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())
 
     # 1. login
