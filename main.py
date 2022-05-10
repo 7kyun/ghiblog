@@ -90,7 +90,7 @@ def bundle_pinned_issues_section():
     pinned_label = ghiblog.get_label(':pushpin:置顶')
     pinned_issues = ghiblog.get_issues(labels=(pinned_label,))
 
-    pinned_issues_section = '\n## 置顶 :thumbsup: \n'
+    pinned_issues_section = '\n## 置顶 :pushpin: \n'
 
     for issue in pinned_issues:
         pinned_issues_section += format_issue(issue)
