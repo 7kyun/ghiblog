@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/4"/>
     <img src="https://badgen.net/github/issues/7kyun/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2022-05-10 10:52:43"/>
+    <img src="https://badgen.net/badge/last-commit/2022-05-10 11:25:16"/>
     <img src="https://badgen.net/github/forks/7kyun/ghiblog"/>
     <img src="https://badgen.net/github/stars/7kyun/ghiblog"/>
     <img src="https://badgen.net/github/watchers/7kyun/ghiblog"/>
@@ -36,7 +36,7 @@
 
 #### [Vue 数据绑定原理（二）](https://github.com/7kyun/ghiblog/issues/4) <sup>0 :speech_balloon:</sup> 	 2022-05-09 09:29:27
 
-:label: : [𝐕vue](https://github.com/7kyun/ghiblog/labels/%F0%9D%90%95vue), [➡️源码解读](https://github.com/7kyun/ghiblog/labels/%E2%9E%A1%EF%B8%8F%E6%BA%90%E7%A0%81%E8%A7%A3%E8%AF%BB)
+:label: : [:v:vue](https://github.com/7kyun/ghiblog/labels/%3Av%3Avue), [:scroll:源码解读](https://github.com/7kyun/ghiblog/labels/%3Ascroll%3A%E6%BA%90%E7%A0%81%E8%A7%A3%E8%AF%BB)
 
 ### observe方法
 这个方法就是给响应式数据添加上一个Observer实例，该实例会绑定__ob__为属性，并且不会重复绑定
@@ -50,7 +50,7 @@
 
 #### [Vue 数据绑定原理（一）](https://github.com/7kyun/ghiblog/issues/3) <sup>0 :speech_balloon:</sup> 	 2022-05-09 08:10:59
 
-:label: : [:+1:置顶](https://github.com/7kyun/ghiblog/labels/%3A%2B1%3A%E7%BD%AE%E9%A1%B6), [𝐕vue](https://github.com/7kyun/ghiblog/labels/%F0%9D%90%95vue), [➡️源码解读](https://github.com/7kyun/ghiblog/labels/%E2%9E%A1%EF%B8%8F%E6%BA%90%E7%A0%81%E8%A7%A3%E8%AF%BB)
+:label: : [:pushpin:置顶](https://github.com/7kyun/ghiblog/labels/%3Apushpin%3A%E7%BD%AE%E9%A1%B6), [:v:vue](https://github.com/7kyun/ghiblog/labels/%3Av%3Avue), [:scroll:源码解读](https://github.com/7kyun/ghiblog/labels/%3Ascroll%3A%E6%BA%90%E7%A0%81%E8%A7%A3%E8%AF%BB)
 
 ### initData
 这段代码主要是初始化data中的数据，将数据进行Observer，监听数据的变化，其他的监视原理一致，这里以data为例
@@ -83,14 +83,6 @@
 
 
 <details>
-<summary>:+1:置顶	<sup>1:newspaper:</sup></summary>
-
-- [Vue 数据绑定原理（一）](https://github.com/7kyun/ghiblog/issues/3)  <sup>0 :speech_balloon:</sup>  	 
-
-
-</details>
-
-<details>
 <summary>:framed_picture:封面	<sup>1:newspaper:</sup></summary>
 
 - [Cover](https://github.com/7kyun/ghiblog/issues/1)  <sup>1 :speech_balloon:</sup>  	 
@@ -99,7 +91,15 @@
 </details>
 
 <details>
-<summary>➡️源码解读	<sup>2:newspaper:</sup></summary>
+<summary>:pushpin:置顶	<sup>1:newspaper:</sup></summary>
+
+- [Vue 数据绑定原理（一）](https://github.com/7kyun/ghiblog/issues/3)  <sup>0 :speech_balloon:</sup>  	 
+
+
+</details>
+
+<details>
+<summary>:scroll:源码解读	<sup>2:newspaper:</sup></summary>
 
 - [Vue 数据绑定原理（二）](https://github.com/7kyun/ghiblog/issues/4)  <sup>0 :speech_balloon:</sup>  	 
 - [Vue 数据绑定原理（一）](https://github.com/7kyun/ghiblog/issues/3)  <sup>0 :speech_balloon:</sup>  	 
@@ -108,7 +108,7 @@
 </details>
 
 <details>
-<summary>𝐕vue	<sup>2:newspaper:</sup></summary>
+<summary>:v:vue	<sup>2:newspaper:</sup></summary>
 
 - [Vue 数据绑定原理（二）](https://github.com/7kyun/ghiblog/issues/4)  <sup>0 :speech_balloon:</sup>  	 
 - [Vue 数据绑定原理（一）](https://github.com/7kyun/ghiblog/issues/3)  <sup>0 :speech_balloon:</sup>  	 
