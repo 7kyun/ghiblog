@@ -11,9 +11,7 @@
 </p>
 
 <p align='center'>
-    <a href="https://github.com/jwenjian/visitor-count-badge">
-        <img src="https://visitor-badge.glitch.me/badge?page_id=7kyun.ghiblog"/>
-    </a>
+    <img src="https://visitor-badge.glitch.me/badge?page_id=7kyun.ghiblog"/>
 </p>
 
 
