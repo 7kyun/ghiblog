@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/4"/>
     <img src="https://badgen.net/github/issues/7kyun/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2022-05-10 02:35:55"/>
+    <img src="https://badgen.net/badge/last-commit/2022-05-10 10:52:43"/>
     <img src="https://badgen.net/github/forks/7kyun/ghiblog"/>
     <img src="https://badgen.net/github/stars/7kyun/ghiblog"/>
     <img src="https://badgen.net/github/watchers/7kyun/ghiblog"/>
@@ -53,7 +53,8 @@
 :label: : [:+1:置顶](https://github.com/7kyun/ghiblog/labels/%3A%2B1%3A%E7%BD%AE%E9%A1%B6), [𝐕vue](https://github.com/7kyun/ghiblog/labels/%F0%9D%90%95vue), [➡️源码解读](https://github.com/7kyun/ghiblog/labels/%E2%9E%A1%EF%B8%8F%E6%BA%90%E7%A0%81%E8%A7%A3%E8%AF%BB)
 
 ### initData
-这段代码主要是初始化data中的数据，将数据进行Observer，监听数据的变化，其他的监视原理一致，这里以data为例。[源码](https://github.com/vuejs/vue/blob/2.6/src/core/instance/state.js#L112)
+这段代码主要是初始化data中的数据，将数据进行Observer，监听数据的变化，其他的监视原理一致，这里以data为例
+[相关源码](https://github.com/vuejs/vue/blob/2.6/src/core/instance/state.js#L1
 
 [更多>>>](https://github.com/7kyun/ghiblog/issues/3)
 
