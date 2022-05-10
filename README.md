@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/4"/>
     <img src="https://badgen.net/github/issues/7kyun/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2022-05-09 09:56:46"/>
+    <img src="https://badgen.net/badge/last-commit/2022-05-10 02:33:32"/>
     <img src="https://badgen.net/github/forks/7kyun/ghiblog"/>
     <img src="https://badgen.net/github/stars/7kyun/ghiblog"/>
     <img src="https://badgen.net/github/watchers/7kyun/ghiblog"/>
@@ -37,7 +37,10 @@
 
 :label: : [𝐕vue](https://github.com/7kyun/ghiblog/labels/%F0%9D%90%95vue), [➡️源码解读](https://github.com/7kyun/ghiblog/labels/%E2%9E%A1%EF%B8%8F%E6%BA%90%E7%A0%81%E8%A7%A3%E8%AF%BB)
 
-...
+### observe方法
+这个方法就是给响应式数据添加上一个Observer实例，该实例会绑定__ob__为属性，并且不会重复绑定
+[对应源码](https://github.com/vuejs/vue/blob/2.6/src/core/observer/index.js#L110)
+``
 
 [更多>>>](https://github.com/7kyun/ghiblog/issues/4)
 
