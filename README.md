@@ -30,7 +30,7 @@
 </p>
 
     
-## 置顶 :thumbsup: 
+## 置顶 :pushpin: 
 - [Vue 数据绑定原理（一）](https://github.com/7kyun/ghiblog/issues/3)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
 
