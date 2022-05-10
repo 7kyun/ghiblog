@@ -1,9 +1,9 @@
 
 
 <p align='center'>
-    <img src="https://badgen.net/badge/labels/2"/>
+    <img src="https://badgen.net/badge/labels/4"/>
     <img src="https://badgen.net/github/issues/7kyun/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2022-05-09 07:27:33"/>
+    <img src="https://badgen.net/badge/last-commit/2022-05-10 02:35:55"/>
     <img src="https://badgen.net/github/forks/7kyun/ghiblog"/>
     <img src="https://badgen.net/github/stars/7kyun/ghiblog"/>
     <img src="https://badgen.net/github/watchers/7kyun/ghiblog"/>
@@ -31,18 +31,31 @@
 
     
 ## 置顶 :thumbsup: 
-- [⚠️Alert❗️❗️](https://github.com/7kyun/ghiblog/issues/2)  <sup>0 :speech_balloon:</sup>  	 
+- [Vue 数据绑定原理（一）](https://github.com/7kyun/ghiblog/issues/3)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
 
-#### [⚠️Alert❗️❗️](https://github.com/7kyun/ghiblog/issues/2) <sup>0 :speech_balloon:</sup> 	 2022-05-09 07:04:50
+#### [Vue 数据绑定原理（二）](https://github.com/7kyun/ghiblog/issues/4) <sup>0 :speech_balloon:</sup> 	 2022-05-09 09:29:27
 
-:label: : [:+1:置顶](https://github.com/7kyun/ghiblog/labels/%3A%2B1%3A%E7%BD%AE%E9%A1%B6)
+:label: : [𝐕vue](https://github.com/7kyun/ghiblog/labels/%F0%9D%90%95vue), [➡️源码解读](https://github.com/7kyun/ghiblog/labels/%E2%9E%A1%EF%B8%8F%E6%BA%90%E7%A0%81%E8%A7%A3%E8%AF%BB)
 
-个人博客, 请**不要**提issue, 谢谢! 
-====================
-This repository is for personal blogging, please **DO NOT** submit issue, thanks!
+### observe方法
+这个方法就是给响应式数据添加上一个Observer实例，该实例会绑定__ob__为属性，并且不会重复绑定
+[对应源码](https://github.com/vuejs/vue/blob/2.6/src/core/observer/index.js#L110)
+``
 
-[更多>>>](https://github.com/7kyun/ghiblog/issues/2)
+[更多>>>](https://github.com/7kyun/ghiblog/issues/4)
+
+---
+
+
+#### [Vue 数据绑定原理（一）](https://github.com/7kyun/ghiblog/issues/3) <sup>0 :speech_balloon:</sup> 	 2022-05-09 08:10:59
+
+:label: : [:+1:置顶](https://github.com/7kyun/ghiblog/labels/%3A%2B1%3A%E7%BD%AE%E9%A1%B6), [𝐕vue](https://github.com/7kyun/ghiblog/labels/%F0%9D%90%95vue), [➡️源码解读](https://github.com/7kyun/ghiblog/labels/%E2%9E%A1%EF%B8%8F%E6%BA%90%E7%A0%81%E8%A7%A3%E8%AF%BB)
+
+### initData
+这段代码主要是初始化data中的数据，将数据进行Observer，监听数据的变化，其他的监视原理一致，这里以data为例。[源码](https://github.com/vuejs/vue/blob/2.6/src/core/instance/state.js#L112)
+
+[更多>>>](https://github.com/7kyun/ghiblog/issues/3)
 
 ---
 
@@ -71,7 +84,7 @@ This repository is for personal blogging, please **DO NOT** submit issue, thanks
 <details>
 <summary>:+1:置顶	<sup>1:newspaper:</sup></summary>
 
-- [⚠️Alert❗️❗️](https://github.com/7kyun/ghiblog/issues/2)  <sup>0 :speech_balloon:</sup>  	 
+- [Vue 数据绑定原理（一）](https://github.com/7kyun/ghiblog/issues/3)  <sup>0 :speech_balloon:</sup>  	 
 
 
 </details>
@@ -80,6 +93,24 @@ This repository is for personal blogging, please **DO NOT** submit issue, thanks
 <summary>:framed_picture:封面	<sup>1:newspaper:</sup></summary>
 
 - [Cover](https://github.com/7kyun/ghiblog/issues/1)  <sup>1 :speech_balloon:</sup>  	 
+
+
+</details>
+
+<details>
+<summary>➡️源码解读	<sup>2:newspaper:</sup></summary>
+
+- [Vue 数据绑定原理（二）](https://github.com/7kyun/ghiblog/issues/4)  <sup>0 :speech_balloon:</sup>  	 
+- [Vue 数据绑定原理（一）](https://github.com/7kyun/ghiblog/issues/3)  <sup>0 :speech_balloon:</sup>  	 
+
+
+</details>
+
+<details>
+<summary>𝐕vue	<sup>2:newspaper:</sup></summary>
+
+- [Vue 数据绑定原理（二）](https://github.com/7kyun/ghiblog/issues/4)  <sup>0 :speech_balloon:</sup>  	 
+- [Vue 数据绑定原理（一）](https://github.com/7kyun/ghiblog/issues/3)  <sup>0 :speech_balloon:</sup>  	 
 
 
 </details>
