@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/4"/>
     <img src="https://badgen.net/github/issues/7kyun/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2022-05-10 11:25:16"/>
+    <img src="https://badgen.net/badge/last-commit/2022-05-11 09:24:39"/>
     <img src="https://badgen.net/github/forks/7kyun/ghiblog"/>
     <img src="https://badgen.net/github/stars/7kyun/ghiblog"/>
     <img src="https://badgen.net/github/watchers/7kyun/ghiblog"/>
@@ -38,7 +38,7 @@
 
 ### observe方法
 这个方法就是给响应式数据添加上一个Observer实例，该实例会绑定__ob__为属性，并且不会重复绑定
-[对应源码](https://github.com/vuejs/vue/blob/2.6/src/core/observer/index.js#L110)
+[相关源码](https://github.com/vuejs/vue/blob/2.6/src/core/observer/index.js#L110)
 ``
 
 [更多>>>](https://github.com/7kyun/ghiblog/issues/4)
