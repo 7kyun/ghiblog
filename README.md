@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/4"/>
     <img src="https://badgen.net/github/issues/7kyun/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2022-05-11 15:30:57"/>
+    <img src="https://badgen.net/badge/last-commit/2022-05-11 15:34:25"/>
     <img src="https://badgen.net/github/forks/7kyun/ghiblog"/>
     <img src="https://badgen.net/github/stars/7kyun/ghiblog"/>
     <img src="https://badgen.net/github/watchers/7kyun/ghiblog"/>
@@ -31,6 +31,20 @@
 ## 置顶 :pushpin: 
 - [Vue 响应式原理（一）](https://github.com/7kyun/ghiblog/issues/3)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [Vue 响应式原理（三）](https://github.com/7kyun/ghiblog/issues/5) <sup>0 :speech_balloon:</sup> 	 2022-05-11 07:34:00
+
+:label: : [:v:vue](https://github.com/7kyun/ghiblog/labels/%3Av%3Avue), [:scroll:源码解读](https://github.com/7kyun/ghiblog/labels/%3Ascroll%3A%E6%BA%90%E7%A0%81%E8%A7%A3%E8%AF%BB)
+
+### defineReactive
+`defineReactive` 就是定义对象上的响应性属性的方法
+它是通过 `Object.defineProperty` 为数据定义上 `getter\setter` 方法
+该方法会形成一个闭包，实例化一个私有的 `Dep` 实例进行该对象的依赖收集，
+
+[更多>>>](https://github.com/7kyun/ghiblog/issues/5)
+
+---
+
 
 #### [Vue 响应式原理（二）](https://github.com/7kyun/ghiblog/issues/4) <sup>0 :speech_balloon:</sup> 	 2022-05-09 09:29:27
 
@@ -97,8 +111,9 @@
 </details>
 
 <details>
-<summary>:scroll:源码解读	<sup>2:newspaper:</sup></summary>
+<summary>:scroll:源码解读	<sup>3:newspaper:</sup></summary>
 
+- [Vue 响应式原理（三）](https://github.com/7kyun/ghiblog/issues/5)  <sup>0 :speech_balloon:</sup>  	 
 - [Vue 响应式原理（二）](https://github.com/7kyun/ghiblog/issues/4)  <sup>0 :speech_balloon:</sup>  	 
 - [Vue 响应式原理（一）](https://github.com/7kyun/ghiblog/issues/3)  <sup>0 :speech_balloon:</sup>  	 
 
@@ -106,8 +121,9 @@
 </details>
 
 <details>
-<summary>:v:vue	<sup>2:newspaper:</sup></summary>
+<summary>:v:vue	<sup>3:newspaper:</sup></summary>
 
+- [Vue 响应式原理（三）](https://github.com/7kyun/ghiblog/issues/5)  <sup>0 :speech_balloon:</sup>  	 
 - [Vue 响应式原理（二）](https://github.com/7kyun/ghiblog/issues/4)  <sup>0 :speech_balloon:</sup>  	 
 - [Vue 响应式原理（一）](https://github.com/7kyun/ghiblog/issues/3)  <sup>0 :speech_balloon:</sup>  	 
 
