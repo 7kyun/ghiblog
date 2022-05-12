@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/5"/>
     <img src="https://badgen.net/github/issues/7kyun/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2022-05-12 06:03:58"/>
+    <img src="https://badgen.net/badge/last-commit/2022-05-12 10:28:23"/>
     <img src="https://badgen.net/github/forks/7kyun/ghiblog"/>
     <img src="https://badgen.net/github/stars/7kyun/ghiblog"/>
     <img src="https://badgen.net/github/watchers/7kyun/ghiblog"/>
@@ -29,12 +29,12 @@
 
     
 ## 置顶 :pushpin: 
-- [Vue 响应式原理（一）](https://github.com/7kyun/ghiblog/issues/3)  <sup>0 :speech_balloon:</sup>  	 
+- [为什么会出现这个博客](https://github.com/7kyun/ghiblog/issues/6)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
 
 #### [为什么会出现这个博客](https://github.com/7kyun/ghiblog/issues/6) <sup>0 :speech_balloon:</sup> 	 2022-05-12 06:03:26
 
-:label: : [:pencil2:随笔](https://github.com/7kyun/ghiblog/labels/%3Apencil2%3A%E9%9A%8F%E7%AC%94)
+:label: : [:pushpin:置顶](https://github.com/7kyun/ghiblog/labels/%3Apushpin%3A%E7%BD%AE%E9%A1%B6), [:pencil2:随笔](https://github.com/7kyun/ghiblog/labels/%3Apencil2%3A%E9%9A%8F%E7%AC%94)
 
 ### 碎碎念
 > 关于为什么现在才开始写博客，其实我更愿意把这称为笔记
@@ -78,7 +78,7 @@
 
 #### [Vue 响应式原理（一）](https://github.com/7kyun/ghiblog/issues/3) <sup>0 :speech_balloon:</sup> 	 2022-05-09 08:10:59
 
-:label: : [:pushpin:置顶](https://github.com/7kyun/ghiblog/labels/%3Apushpin%3A%E7%BD%AE%E9%A1%B6), [:v:vue](https://github.com/7kyun/ghiblog/labels/%3Av%3Avue), [:scroll:源码解读](https://github.com/7kyun/ghiblog/labels/%3Ascroll%3A%E6%BA%90%E7%A0%81%E8%A7%A3%E8%AF%BB)
+:label: : [:v:vue](https://github.com/7kyun/ghiblog/labels/%3Av%3Avue), [:scroll:源码解读](https://github.com/7kyun/ghiblog/labels/%3Ascroll%3A%E6%BA%90%E7%A0%81%E8%A7%A3%E8%AF%BB)
 
 ### initData
 这段代码主要是初始化data中的数据，将数据进行Observer，监听数据的变化，其他的监视原理一致，这里以data为例
@@ -129,7 +129,7 @@
 <details>
 <summary>:pushpin:置顶	<sup>1:newspaper:</sup></summary>
 
-- [Vue 响应式原理（一）](https://github.com/7kyun/ghiblog/issues/3)  <sup>0 :speech_balloon:</sup>  	 
+- [为什么会出现这个博客](https://github.com/7kyun/ghiblog/issues/6)  <sup>0 :speech_balloon:</sup>  	 
 
 
 </details>
