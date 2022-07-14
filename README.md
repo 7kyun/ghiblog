@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/6"/>
     <img src="https://badgen.net/github/issues/7kyun/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2022-07-14 03:11:01"/>
+    <img src="https://badgen.net/badge/last-commit/2022-07-14 03:12:36"/>
     <img src="https://badgen.net/github/forks/7kyun/ghiblog"/>
     <img src="https://badgen.net/github/stars/7kyun/ghiblog"/>
     <img src="https://badgen.net/github/watchers/7kyun/ghiblog"/>
@@ -66,10 +66,11 @@
 
 :label: : [:v:vue](https://github.com/7kyun/ghiblog/labels/%3Av%3Avue), [:scroll:源码解读](https://github.com/7kyun/ghiblog/labels/%3Ascroll%3A%E6%BA%90%E7%A0%81%E8%A7%A3%E8%AF%BB)
 
-### observe方法
-这个方法就是给响应式数据添加上一个Observer实例，该实例会绑定__ob__为属性，并且不会重复绑定
-[相关源码](https://github.com/vuejs/vue/blob/2.6/src/core/observer/index.js#L110)
-``
+### Observer类
+Observer的作用就是遍历对象的所有属性将其进行双向绑定
+如果是对象，则进行深度递归遍历，将每一个子对象都转化成响应式对象
+如果是数组，则会对每一个成员都执行一遍 `observe` 方法，并对其原生的数组方法进行改写。
+[相关源码](https://gith
 
 [更多>>>](https://github.com/7kyun/ghiblog/issues/4)
 
