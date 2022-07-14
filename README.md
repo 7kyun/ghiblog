@@ -1,9 +1,9 @@
 
 
 <p align='center'>
-    <img src="https://badgen.net/badge/labels/5"/>
+    <img src="https://badgen.net/badge/labels/6"/>
     <img src="https://badgen.net/github/issues/7kyun/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2022-07-14 01:43:12"/>
+    <img src="https://badgen.net/badge/last-commit/2022-07-14 03:03:35"/>
     <img src="https://badgen.net/github/forks/7kyun/ghiblog"/>
     <img src="https://badgen.net/github/stars/7kyun/ghiblog"/>
     <img src="https://badgen.net/github/watchers/7kyun/ghiblog"/>
@@ -48,7 +48,7 @@
 ---
 
 
-#### [Vue源码-双向数据绑定原理（三）](https://github.com/7kyun/ghiblog/issues/5) <sup>0 :speech_balloon:</sup> 	 2022-05-11 07:34:00
+#### [Vue源码-双向数据绑定原理（二）](https://github.com/7kyun/ghiblog/issues/5) <sup>0 :speech_balloon:</sup> 	 2022-05-11 07:34:00
 
 :label: : [:v:vue](https://github.com/7kyun/ghiblog/labels/%3Av%3Avue), [:scroll:源码解读](https://github.com/7kyun/ghiblog/labels/%3Ascroll%3A%E6%BA%90%E7%A0%81%E8%A7%A3%E8%AF%BB)
 
@@ -62,7 +62,7 @@
 ---
 
 
-#### [Vue源码-双向数据绑定原理（二）](https://github.com/7kyun/ghiblog/issues/4) <sup>0 :speech_balloon:</sup> 	 2022-05-09 09:29:27
+#### [Vue源码-双向数据绑定原理（三）](https://github.com/7kyun/ghiblog/issues/4) <sup>0 :speech_balloon:</sup> 	 2022-05-09 09:29:27
 
 :label: : [:v:vue](https://github.com/7kyun/ghiblog/labels/%3Av%3Avue), [:scroll:源码解读](https://github.com/7kyun/ghiblog/labels/%3Ascroll%3A%E6%BA%90%E7%A0%81%E8%A7%A3%E8%AF%BB)
 
@@ -76,7 +76,7 @@
 ---
 
 
-#### [Vue 响应式原理（一）](https://github.com/7kyun/ghiblog/issues/3) <sup>0 :speech_balloon:</sup> 	 2022-05-09 08:10:59
+#### [Vue源码-双向数据绑定原理（一）](https://github.com/7kyun/ghiblog/issues/3) <sup>0 :speech_balloon:</sup> 	 2022-05-09 08:10:59
 
 :label: : [:v:vue](https://github.com/7kyun/ghiblog/labels/%3Av%3Avue), [:scroll:源码解读](https://github.com/7kyun/ghiblog/labels/%3Ascroll%3A%E6%BA%90%E7%A0%81%E8%A7%A3%E8%AF%BB)
 
@@ -137,9 +137,16 @@
 <details>
 <summary>:scroll:源码解读	<sup>3:newspaper:</sup></summary>
 
-- [Vue源码-双向数据绑定原理（三）](https://github.com/7kyun/ghiblog/issues/5)  <sup>0 :speech_balloon:</sup>  	 
-- [Vue源码-双向数据绑定原理（二）](https://github.com/7kyun/ghiblog/issues/4)  <sup>0 :speech_balloon:</sup>  	 
+- [Vue源码-双向数据绑定原理（二）](https://github.com/7kyun/ghiblog/issues/5)  <sup>0 :speech_balloon:</sup>  	 
+- [Vue源码-双向数据绑定原理（三）](https://github.com/7kyun/ghiblog/issues/4)  <sup>0 :speech_balloon:</sup>  	 
 - [Vue源码-双向数据绑定原理（一）](https://github.com/7kyun/ghiblog/issues/3)  <sup>0 :speech_balloon:</sup>  	 
+
+
+</details>
+
+<details>
+<summary>:thinking:思考	<sup>0:newspaper:</sup></summary>
+
 
 
 </details>
@@ -147,8 +154,8 @@
 <details>
 <summary>:v:vue	<sup>3:newspaper:</sup></summary>
 
-- [Vue源码-双向数据绑定原理（三）](https://github.com/7kyun/ghiblog/issues/5)  <sup>0 :speech_balloon:</sup>  	 
-- [Vue源码-双向数据绑定原理（二）](https://github.com/7kyun/ghiblog/issues/4)  <sup>0 :speech_balloon:</sup>  	 
+- [Vue源码-双向数据绑定原理（二）](https://github.com/7kyun/ghiblog/issues/5)  <sup>0 :speech_balloon:</sup>  	 
+- [Vue源码-双向数据绑定原理（三）](https://github.com/7kyun/ghiblog/issues/4)  <sup>0 :speech_balloon:</sup>  	 
 - [Vue源码-双向数据绑定原理（一）](https://github.com/7kyun/ghiblog/issues/3)  <sup>0 :speech_balloon:</sup>  	 
 
 
